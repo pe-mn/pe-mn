@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: pe.mn99@gmail.com
 
 ### 🤝 Connect with me
-[<img alt="LinkedIn" width="21px" src="https://raw.githubusercontent.com/pe-mn/pe-mn/main/images/linkedin.png" />](https://www.linkedin.com/in/nagy99/)
+[<img alt="LinkedIn" width="21px" src="images/linkedin.png" />](https://www.linkedin.com/in/nagy99/)
 
