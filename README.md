@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: pe.mn99@gmail.com
 - 😄 Pronouns: Nagy
 - ⚡ Fun fact: I never stop learning
+[![name](link to image on GH)](link to your URL)
 -->
 
 - 🔭 I’m currently working on "Identify Customer Segments (Unsupervised ML Project)"
@@ -21,6 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: pe.mn99@gmail.com
 
 ### 🤝 Connect with me
-<a href=”https://www.linkedin.com/in/nagy99/">
-       <img align=”left” src=”https://raw.githubusercontent.com/pe-mn/pe-mn/main/images/linkedin.png"/>
-</a>
+[![LinkedIn](https://raw.githubusercontent.com/pe-mn/pe-mn/main/images/linkedin.png)](https://www.linkedin.com/in/nagy99/)
+
