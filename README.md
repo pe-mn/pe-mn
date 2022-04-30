@@ -28,4 +28,5 @@ Here are some ideas to get you started:
 [<img alt="Behance" width="21px" src="images/behance.png" />](https://www.behance.net/pemn99)
 [<img alt="Whatsapp" width="21px" src="images/whatsapp.png" />](https://wa.me/201097533979)
 
-
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=pe-mn)](https://github.com/pe-mn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pe-mn&layout=compact)](https://github.com/pe-mn)
