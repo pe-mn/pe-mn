@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/{pe-mn}/count.svg)
-
 <!--
 **pe-mn/pe-mn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
