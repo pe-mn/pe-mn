@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything (If I can help, Sure I will)
 - 📫 How to reach me: pe.mn99@gmail.com
 
+### 🤝 Connect with me
+
+<a href=”https://www.linkedin.com/in/nagy99/"><img align=”left” src=”https://raw.githubusercontent.com/pe-mn/pe-mn/main/ICONS/Ruslan Babkin/linkedin.png" alt=”M.Nagy | LinkedIn” width=”21px”/></a>
