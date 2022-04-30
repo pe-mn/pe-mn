@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=pe-mn&show_icons=true&theme=radical)](https://github.com/pe-mn)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pe-mn&theme=radical&layout=compact)](https://github.com/pe-mn)
 
-### 🤝 Connect with me
-[<img alt="LinkedIn" width="21px" src="images/linkedin.png" />](https://www.linkedin.com/in/nagy99/) &nbsp;
+### 🤝 Connect with me 
+&nbsp; &nbsp; [<img alt="LinkedIn" width="21px" src="images/linkedin.png" />](https://www.linkedin.com/in/nagy99/) &nbsp;
 [<img alt="Facebook" width="21px" src="images/facebook.png" />](https://www.facebook.com/mahmoud.n.abdelhady/) &nbsp;
 [<img alt="Behance" width="21px" src="images/behance.png" />](https://www.behance.net/pemn99) &nbsp;
 [<img alt="Instagram" width="21px" src="images/instagram.png" />](https://www.instagram.com/m.nagy99/) &nbsp;
