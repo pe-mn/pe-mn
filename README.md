@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ### 🤝 Connect with me
 
-<a href=”https://www.linkedin.com/in/nagy99/"><img align=”left” src=”https://raw.githubusercontent.com/pe-mn/pe-mn/blob/main/ICONS/Ruslan%20Babkin/linkedin.png" alt=”M.Nagy | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/nagy99/"><img align=”left” src=”https://raw.githubusercontent.com/pe-mn/pe-mn/main/ICONS/Ruslan%20Babkin/linkedin.png" alt=”M.Nagy | LinkedIn” width=”21px”/></a>
