@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I never stop learning
 [![name](link to image on GH)](link to your URL)  
 &ensp; &emsp;
+--- or *** or <hr>
 -->
 
 - 🔭 I’m currently working on "Identify Customer Segments (Unsupervised ML Project)"
@@ -25,6 +26,7 @@ Here are some ideas to get you started:
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=pe-mn&show_icons=true&theme=radical)](https://github.com/pe-mn)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pe-mn&theme=radical&layout=compact)](https://github.com/pe-mn)
 
+<hr>
 ### 🤝 Connect with me 
 [<img alt="LinkedIn" width="21px" src="images/linkedin.png" />](https://www.linkedin.com/in/nagy99/) &nbsp;
 [<img alt="Facebook" width="21px" src="images/facebook.png" />](https://www.facebook.com/mahmoud.n.abdelhady/) &nbsp;
