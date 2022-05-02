@@ -18,10 +18,13 @@ Here are some ideas to get you started:
 --- or *** or <hr>
 -->
 
+
 - 🔭 I’m currently working on "Identify Customer Segments (Unsupervised ML Project)"
 - 🌱 I’m currently learning Neural Networks with TesnorFlow
 - 💬 Ask me about anything (If I can help, Sure I will)
 - 📫 How to reach me: pe.mn99@gmail.com
+
+#
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=pe-mn&show_icons=true&theme=radical)](https://github.com/pe-mn)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pe-mn&theme=radical&layout=compact)](https://github.com/pe-mn)
@@ -38,4 +41,4 @@ Here are some ideas to get you started:
 [<img alt="HackerRank" width="21px" src="images/HackerRank.png" />](https://www.hackerrank.com/pe_mn99) &nbsp;
 [<img alt="LeetCode" width="23px" src="images/LeetCode.png" />](https://leetcode.com/pe-mn/) &nbsp;
 
-
+#
