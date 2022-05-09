@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=pe-mn&show_icons=true&theme=city_lights)](https://github.com/pe-mn)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pe-mn&theme=city_lights&layout=compact)](https://github.com/pe-mn)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=pe-mn&show_icons=true&theme=nord)](https://github.com/pe-mn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pe-mn&theme=nord&layout=compact)](https://github.com/pe-mn)
 
 #
 
