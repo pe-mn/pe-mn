@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning Neural Networks with TesnorFlow
+- 🌱 I’m currently learning "Data Engineering"
 - 💬 Ask me about anything (If I can help, Sure I will)
 - 📫 How to reach me: pe.mn99@gmail.com
 
