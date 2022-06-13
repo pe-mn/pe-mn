@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 <!--
+
+https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> theme=nord
+
 **pe-mn/pe-mn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -27,8 +30,8 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=pe-mn&show_icons=true&theme=nord)](https://github.com/pe-mn)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pe-mn&theme=nord&layout=compact)](https://github.com/pe-mn)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=pe-mn&show_icons=true&theme=apprentice)](https://github.com/pe-mn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pe-mn&theme=apprentice&layout=compact)](https://github.com/pe-mn)
 
 #
 
