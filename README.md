@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 [![name](link to image on GH)](link to your URL)  
 &ensp; &emsp;
 
-https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> theme=nord
+https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md 
+theme=nord
 
 --- or *** or <hr>
 -->
