@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <!--
+
 **pe-mn/pe-mn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on "Identify Customer Segments (Unsupervised ML Project)"
 - 🌱 I’m currently learning Neural Networks with TesnorFlow
 - 👯 I’m looking to collaborate on ML & Data Analysis Projects
@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: pe.mn99@gmail.com
 - 😄 Pronouns: Nagy
 - ⚡ Fun fact: I never stop learning
+
 [![name](link to image on GH)](link to your URL)  
 &ensp; &emsp;
-
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md 
 theme=nord
-
 --- or *** or <hr>
+
 -->
 
 
@@ -31,8 +31,8 @@ theme=nord
 
 <br>
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=pe-mn&show_icons=true&theme=apprentice)](https://github.com/pe-mn)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pe-mn&theme=apprentice&layout=compact)](https://github.com/pe-mn)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=pe-mn&show_icons=true&theme=swift)](https://github.com/pe-mn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pe-mn&theme=swift&layout=compact)](https://github.com/pe-mn)
 
 #
 
