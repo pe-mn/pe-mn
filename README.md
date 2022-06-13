@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 <!--
-
-https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> theme=nord
-
 **pe-mn/pe-mn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I never stop learning
 [![name](link to image on GH)](link to your URL)  
 &ensp; &emsp;
+
+https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> theme=nord
+
 --- or *** or <hr>
 -->
 
