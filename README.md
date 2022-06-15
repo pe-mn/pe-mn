@@ -32,8 +32,8 @@ theme=swift
 
 <br>
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=pe-mn&show_icons=true&theme=default)](https://github.com/pe-mn)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pe-mn&theme=default&layout=compact)](https://github.com/pe-mn)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=pe-mn&show_icons=true&theme=dark)](https://github.com/pe-mn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pe-mn&theme=dark&layout=compact)](https://github.com/pe-mn)
 
 #
 
