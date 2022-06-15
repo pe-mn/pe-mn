@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md 
 theme=nord
 theme=swift
+theme=graywhite
 --- or *** or <hr>
 
 -->
@@ -32,8 +33,8 @@ theme=swift
 
 <br>
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=pe-mn&show_icons=true&theme=graywhite)](https://github.com/pe-mn)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pe-mn&theme=graywhite&layout=compact)](https://github.com/pe-mn)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=pe-mn&show_icons=true&theme=nord)](https://github.com/pe-mn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pe-mn&theme=nord&layout=compact)](https://github.com/pe-mn)
 
 #
 
