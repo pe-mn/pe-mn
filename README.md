@@ -25,7 +25,7 @@ theme=graywhite
 -->
 
 
-- 🌱 I’m currently learning "Data Engineering"
+- 🌱 I’m currently learning "AWS Cloud Practitioner"
 - 💬 Ask me about anything (If I can help, Sure I will)
 - 📫 How to reach me: pe.mn99@gmail.com
 
