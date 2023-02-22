@@ -25,7 +25,7 @@ theme=graywhite
 -->
 
 
-- 🌱 I’m currently learning "AWS Cloud Practitioner"
+- 🌱 I’m currently learning "Power BI"
 - 💬 Ask me about anything (If I can help, Sure I will)
 - 📫 How to reach me: pe.mn99@gmail.com
 
