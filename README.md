@@ -25,7 +25,7 @@ theme=graywhite
 -->
 
 
-- 🌱 I’m currently learning "ELK Stack (ElasticSearch and Kibana)"
+- 🌱 I’m currently learning "APACHE KAFKA"
 - 💬 Ask me about anything (If I can help, Sure I will)
 - 📫 How to reach me: pe.mn99@gmail.com
 
