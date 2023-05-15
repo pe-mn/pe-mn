@@ -38,7 +38,7 @@ theme=graywhite
 
 <p align = "center">
   <img src = "https://github-readme-stats-sigma-five.vercel.app/api?username=pe-mn&show_icons=true&theme=nord" width = 400>
-  <img src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pe-mn&theme=nord&layout=compact" width = 400>
+  <img src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pe-mn&theme=nord&layout=compact" width = 368>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width = 400>
 </p>
 
