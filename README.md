@@ -32,21 +32,43 @@ theme=graywhite
 - 💬 Ask me about anything (If I can help, Sure I will)
 - 📫 How to reach me: pe.mn99@gmail.com
 
+# 
+
 <details>
   <summary><b>Skills</b></summary>
 
-[![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
+### DATA ANALYSIS
+Data Processing:
+ - Excel (Pivot Tables, Power Query) 
+ - Python (NumPy, Pandas), Jupyter Notebook
+ Psycopg2, BeautifulSoup, Requests, Geopy
+ - SQL (MySQL, PostgreSQL)
+
+Big Data:
+ - Spark (PySpark), NoSQL (Cassandra)
+
+Visualization:
+ - Power BI, Kibana, Plotly, Matplotlib and Seaborn
+
+#
   
-[![jupyter](https://img.shields.io/badge/jupyter-★★★-lightgrey?labelColor=3776AB&logo=jupyter&style=for-the-badge&logoColor=white)](https://www.jupyter.org/)
-    
-[![postgreSQL](https://img.shields.io/badge/PostgreSQL-★★☆-lightgrey?labelColor=4169E1&logo=PostgreSQL&style=for-the-badge&logoColor=white)](https://www.postgresql.org/)
+### DATA ENGINEERING:
+ - Data Modeling
+ - Databases
+ - Data Warehouses
+ - Data Lakes
+ - Data Pipelines (Airflow)
 
-
-[![bash](https://img.shields.io/badge/bash-★★☆-lightgrey?labelColor=4EAA25&logo=GNU-Bash&style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
-
-[![html](https://img.shields.io/badge/html-★★☆-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
+#
   
-[![css](https://img.shields.io/badge/css-★★☆-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)
+### Machine Learning:
+ - Supervised
+ - Unsupervised
+
+#
+  
+### AWS Cloud:
+ - EC2, EMR, Redshift, IAM, Lambda, S3, IaC, Athena
 
 </details>
 
